@@ -1,9 +1,9 @@
 // Copyright Stefania-Clara Diaconescu 313CAb 2023-2024
 
-    Problema are ca obiectiv realizarea unui software numeric asemanator cu
+Problema are ca obiectiv realizarea unui software numeric asemanator cu
 Octave, ce realizeaza operatii cu matrice, tablourile fiind alocate dinamic.
 
-    Se citeste caracterul l. Cat timp acesta este diferit de 'Q', se fac
+Se citeste caracterul l. Cat timp acesta este diferit de 'Q', se fac
 urmatoarele verificari:
 
 - In  cazul in care l = 'L', se citesc dimensiunile matricei, acestea fiind
